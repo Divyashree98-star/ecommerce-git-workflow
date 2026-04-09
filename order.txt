@@ -3,3 +3,4 @@ create order
 order history
 order bug fix
 order purchase
+order delete
